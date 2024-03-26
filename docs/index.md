@@ -42,30 +42,41 @@ Nosso objetivo é criar um software que calcula e identifica uma pizzaria mais p
 Cadastro:
 - O aplicativo pedirá o nome de usuario, senha, email, telefone e endereço.
 
+
 Cardápio:
 - O cardápio consistira em Aperitivos, Pizzas, bebidas e Pizza doce.
+
 
 Carrinho de Compras:
 - O carrinho de compras permitirá que o usuário veja o que ele adicionou, e poderá cancelar um item do pedido ou seguir para o pagamento.
 
+
 Rastreamento do Pedido:
 - O aplicativo contém a localização do pedido, para que o usuário possa acompanhar.
+
 
 Duvidas:
 - Temos contatos de ajuda para: problemas com o aplicativo, duvidas sobre a funcionalidade e problemas com entrega.
 
+
+
+
 REQUISITOS NÃO FUNCIONAIS
+
 Desempenho:
 - Sistema deve ser capaz de aceitar um grande volume de pedidos e muitas pessoas simultâneamente.
 - Um sistema eficiente, que não demore para carregar e não tenha bugs.
+
 
 Segurança:
 - O sistema garante a segurança dos dados dos clientes e funcionários.
 - O sistema contém segurança contra ataques cibernéticos, evitando ataques de hackers.
 
+
 Usabilidade:
 - Sistema fácil e intuitivo para os usuários.
 - Fácil acesso em celulares, notebook, tablets e computadores.
+
 
 Banco de Dados:
 - O sistema contém um banco de dados que armazena os dados dos clientes, como: Nome, Senha, Email e Endereço.
