@@ -85,7 +85,8 @@ Banco de Dados:
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+*&lt;![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/917ad3dc-deae-4a7b-b3b1-f6ebaa1d98fc)
+&gt;*
 
 # Diagrama de Casos de Uso
 
