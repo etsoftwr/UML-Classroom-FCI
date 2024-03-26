@@ -39,7 +39,7 @@ Nosso objetivo é criar um software que calcula e identifica uma pizzaria mais p
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;REQUISITOS FUNCIONAIS
 
-*Cadastro:
+Cadastro:
 - O aplicativo pedirá o nome de usuario, senha, email, telefone e endereço.
 
 Cardápio:
