@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;SOS pizza&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -26,23 +26,45 @@
 
 
 # Autores
-
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Thiago de Oliveria Silva RA:10427342
+* Erik Yutaka Takara RA:10427684 
 
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;Pizza express tem uma concorrencia chamada papa-léguas, que esta entregando as pizzas em 30 minutos.
+Nosso projeto é criar um software capaz de calcular e encontrar uma pizzaria mais próxima do cliente, onde a pizza seria entregue entre 10 a 15 minutos. &gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt; REQUISITOS FUNCIONAIS
+Cadastro:
+- O aplicativo pedirá o nome de usuario, senha, email, telefone e endereço.
+
+Cardápio:
+- O cardápio consistira em Aperitivos, Pizzas, bebidas e Pizza doce.
+
+Carrinho de Compras:
+- O carrinho de compras permitirá que o usuário veja o que ele adicionou, e poderá cancelar um item do pedido ou seguir para o pagamento.
+
+Rastreamento do Pedido:
+- O aplicativo contém a localização do pedido, para que o usuário possa acompanhar.
+
+Duvidas:
+- Temos contatos de ajuda para: problemas com o aplicativo, duvidas sobre a funcionalidade e problemas com entrega.
+  
+REQUISITOS NÃO FUNCIONAIS
+Desempenho:
+- Sistema deve ser capaz de aceitar um grande volume de pedidos e muitas pessoas simultâneamente.
+- Um sistema eficiente, que não demore para carregar e não tenha bugs.
+
+Segurança:
+- O sistema garante a segurança dos dados dos clientes e funcionários.
+- O sistema contém segurança contra ataques cibernéticos, evitando ataques de hackers.
+
+Usabilidade:
+- Sistema fácil e intuitivo para os usuários.
+- Fácil acesso em celulares, notebook, tablets e computadores.
+&gt;*
 
 # Diagrama de Atividades
 
