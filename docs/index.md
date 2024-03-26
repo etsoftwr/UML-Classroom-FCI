@@ -37,7 +37,8 @@
 Nosso objetivo é criar um software que calcula e identifica uma pizzaria mais próxima do cliente, que entregue a pizza entre 10 a 15 minutos &gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;REQUISITOS FUNCIONAIS
+*&lt;
+REQUISITOS FUNCIONAIS
 
 Cadastro:
 - O aplicativo pedirá o nome de usuario, senha, email, telefone e endereço.
@@ -59,7 +60,7 @@ Duvidas:
 - Temos contatos de ajuda para: problemas com o aplicativo, duvidas sobre a funcionalidade e problemas com entrega.
 
 
-
+_____________________________________________________________________________________________________________________________________________________________
 
 REQUISITOS NÃO FUNCIONAIS
 
