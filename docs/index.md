@@ -90,7 +90,8 @@ Banco de Dados:
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/53f5f4ef-beed-4d47-b272-dabe9557880c)
+&gt;*
 
 # Descrição dos Casos de Uso
 
