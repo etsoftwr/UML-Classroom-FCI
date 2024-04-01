@@ -27,7 +27,7 @@
 
 # Autores
 
-* Thiago de Oliveira Silva 
+* Thiago de Oliveira Silva RA:10427342
 * Erik Yutaka Takara RA:10427684
 
 
@@ -37,7 +37,7 @@
 Nosso objetivo é criar um software que calcula e identifica uma pizzaria mais próxima do cliente, que entregue a pizza entre 10 a 15 minutos &gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;
+
 REQUISITOS FUNCIONAIS
 
 Cadastro:
