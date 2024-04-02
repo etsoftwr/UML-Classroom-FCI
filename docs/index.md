@@ -99,25 +99,25 @@ Banco de Dados:
 *&lt;Descrição do comportamento entre os atores/resquisitos
 
 *caso 1
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/ae37d83a-b112-491c-a576-ab33cb16f84a)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/ae37d83a-b112-491c-a576-ab33cb16f84a)
 
 *caso 2
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/8b54e396-5f67-493a-ba11-95970fbcc076)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/8b54e396-5f67-493a-ba11-95970fbcc076)
 
 *caso 3
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/09b2b27f-4ef5-4fd3-a893-159513e839b0)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/09b2b27f-4ef5-4fd3-a893-159513e839b0)
 
 *caso 4
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/8c9c6631-75da-4081-99d3-94dd42be52a4)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/8c9c6631-75da-4081-99d3-94dd42be52a4)
 
 *caso5
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/24e9284b-58da-4154-a584-e842fc2be437)
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/d59aa034-ca24-4cfe-a90c-a3f009816da8)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/24e9284b-58da-4154-a584-e842fc2be437)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/d59aa034-ca24-4cfe-a90c-a3f009816da8)
 
 
 *caso 6
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/e59ed693-f4fe-415a-9867-6e1115c132a4)
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/f49d28ff-d92e-4e6f-aaaa-989d788b2160)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/e59ed693-f4fe-415a-9867-6e1115c132a4)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/f49d28ff-d92e-4e6f-aaaa-989d788b2160)
 
 
 
