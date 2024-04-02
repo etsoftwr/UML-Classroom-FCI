@@ -112,7 +112,8 @@ Banco de Dados:
 
 *caso5
 - ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/24e9284b-58da-4154-a584-e842fc2be437)
-- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/d59aa034-ca24-4cfe-a90c-a3f009816da8)
+- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/9b79b738-cd57-40ae-90ad-cdee501c487e)
+
 
 
 *caso 6
