@@ -90,7 +90,8 @@ Banco de Dados:
 
 # Diagrama de Casos de Uso
 
-*&lt;![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/53f5f4ef-beed-4d47-b272-dabe9557880c)
+*&lt;![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/005e7f25-6731-4602-8f9c-d67679b1362e)
+
 &gt;*
 
 # Descrição dos Casos de Uso
