@@ -131,7 +131,8 @@ Banco de Dados:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*&lt;![diagramaDeClasse](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/01c6138f-3bc4-49af-887e-cc3fe72d2686)
+&gt;*
 
 # Diagrama de Estados
 
