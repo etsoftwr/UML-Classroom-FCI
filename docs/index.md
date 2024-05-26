@@ -127,7 +127,10 @@ Banco de Dados:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/106ca179-27b6-49e6-95c5-a275fb53efd3)
+![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/35a64ec9-407e-4d1a-942c-70e2f23e51c0)
+
+
 
 # Diagrama de Classes
 
