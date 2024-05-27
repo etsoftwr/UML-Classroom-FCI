@@ -130,7 +130,8 @@ Banco de Dados:
 ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/106ca179-27b6-49e6-95c5-a275fb53efd3)
 ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/35a64ec9-407e-4d1a-942c-70e2f23e51c0)
 ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/b5731840-088e-442d-b0c4-caf23783de2a)
-![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/452c1ae6-719c-47fb-a0f0-c82b7e262b10)
+![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/f9661072-3759-40d0-82de-16d6b2d7c4b3)
+
 
 
 
