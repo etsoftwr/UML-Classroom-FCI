@@ -145,8 +145,7 @@ Banco de Dados:
 
 *&lt;login - ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/9a3c9cec-a23c-44c5-b277-58739ceb77fe)
 
-*Pedido
-- ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/701d7d2b-2934-4961-8d8b-96026345b7a9)
+Pedido - ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/701d7d2b-2934-4961-8d8b-96026345b7a9)
 
 &gt;*
 
