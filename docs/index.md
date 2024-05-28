@@ -143,7 +143,8 @@ Banco de Dados:
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+*&lt;![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/9a3c9cec-a23c-44c5-b277-58739ceb77fe)
+&gt;*
 
 # Diagrama de Implantação
 
