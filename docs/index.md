@@ -148,7 +148,8 @@ Banco de Dados:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/f14d2b5c-5c80-47a9-af1c-565da23cf023)
+
 
 # Referências
 
