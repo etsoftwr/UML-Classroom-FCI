@@ -124,7 +124,7 @@ Banco de Dados:
 
 
 &gt;*
-#NI2
+# NI2
 # Diagrama de Sequência
 
 ![image](https://github.com/etsoftwr/UML-Classroom-FCI/assets/162384432/eb60b105-9ac0-419b-b7aa-35781de424b7)
